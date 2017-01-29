@@ -33,6 +33,7 @@ import com.google.i18n.phonenumbers.PhoneNumberUtil;
 import com.google.i18n.phonenumbers.Phonenumber;
 
 import org.androidannotations.annotations.App;
+import org.androidannotations.annotations.EBean;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.output.ByteArrayOutputStream;
 
@@ -48,6 +49,7 @@ import java.util.Date;
  * Created by parag_sarkar on 27-01-2017.
  */
 
+@EBean
 public class Utils {
 
     AppInstance appInstance;

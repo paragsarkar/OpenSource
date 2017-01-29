@@ -5,7 +5,7 @@
 package com.OpenSource.engine.connectivity;
 
 /**
- * @author sanjivan_kumar
+ * @author parag sarkar
  */
 public interface IConnectivityListener {
     void onConnected(int networkType);

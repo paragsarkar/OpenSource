@@ -15,7 +15,7 @@ import org.androidannotations.annotations.EBean;
 import org.androidannotations.annotations.EBean.Scope;
 
 /**
- * @author sanjivan_kumar
+ * @author parag sarkar
  */
 @EBean(scope = Scope.Default)
 public class ConnectivityValidator {

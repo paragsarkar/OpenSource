@@ -5,7 +5,7 @@
 package com.OpenSource.engine.connectivity;
 
 /**
- * @author sanjivan_kumar
+ * @author  parag sarkar
  */
 @SuppressWarnings("serial")
 public class ConnectivityException extends Exception {
